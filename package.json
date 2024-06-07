@@ -1,0 +1,11 @@
+{
+    "dependencies": {
+      
+      "csv-parse": "^4.3.4",
+      "lodash": "^4.17.11",
+      
+      "stream-transform": "^1.0.8"
+     
+    }
+  }
+  

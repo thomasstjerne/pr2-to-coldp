@@ -1,3 +1,7 @@
+# data
+data/
+output/NameUsage.txt
+
 # Logs
 logs
 *.log
